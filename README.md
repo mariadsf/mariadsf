@@ -10,7 +10,7 @@
 
 🎓 Estudante de Desenvolvimento Web na AFESU Veleiros e Front-end pelo SENAI
 
-🌟 Apaixonada por tecnologia desde cedo, Maria Eduarda, aos 16 anos, está mergulhando no universo do desenvolvimento web. Atualmente, ela está cursando Desenvolvimento Web na AFESU Veleiros e aprimorando suas habilidades em Front-end pelo SENAI. Sua determinação e curiosidade incessante a impulsionam a explorar novas tecnologias e a criar experiências digitais inovadoras. Fora do mundo da programação, Maria Eduarda adora explorar novos lugares em São Paulo, encontrar-se com amigos e ler sobre as últimas tendências em tecnologia.
+🌟 Apaixonada por tecnologia desde cedo, Maria Eduarda, aos 18 anos, está mergulhando no universo do desenvolvimento web. Atualmente, estou aprimorando ,minhas habilidades em Front-end. Sua determinação e curiosidade incessante a impulsionam a explorar novas tecnologias e a criar experiências digitais inovadoras. Fora do mundo da programação, Maria Eduarda adora explorar novos lugares em São Paulo, encontrar-se com amigos e ler sobre as últimas tendências em tecnologia.
 
 Apaixonada por arte e tecnologia, alguns dos meus hobbies são jogar, assistir, e ler .<a href="https:https://www.instagram.com/maria_fonfom/">(@{maria_fonfom})</a>.</p>
 <!--
